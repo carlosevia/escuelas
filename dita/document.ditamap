@@ -2,6 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA 2.x Map//EN" "map.dtd">
 <map>
     <title>Best Public Universities in Virginia</title>
+   <topicref href="index.dita"/>
     <topicref href="university_of_virginia.dita"/>
     <topicref href="virginia_tech.dita"/>
     <topicref href="william_and_mary.dita"/>
