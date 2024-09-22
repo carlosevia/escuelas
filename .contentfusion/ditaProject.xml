@@ -4,10 +4,18 @@
         <input href="../dita/document.ditamap"/>
     </context>
     <publication id="pdf" transtype="pdf-css-html5"/>
+    <publication id="webhelp" transtype="webhelp-responsive"/>
     <deliverable id="d-pdf-1727038789599" name="pdf">
         <context idref="gYIrgFvkFPIqCBs"/>
         <output href="pdf-output"/>
         <publication idref="pdf">
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
+    <deliverable id="d-webito-1727039372922" name="webito">
+        <context idref="gYIrgFvkFPIqCBs"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
