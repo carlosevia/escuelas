@@ -4,5 +4,6 @@
     <title>Welcome</title>
     <body>
         <p>To the repository of universities in Virginia.</p>
+        <p>Apparently we cannot have a file named <codeph>index.dita</codeph> in Content Fusion.</p>
     </body>
 </topic>
