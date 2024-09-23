@@ -5,5 +5,7 @@
     <body>
         <p>To the repository of universities in Virginia.</p>
         <p>Apparently we cannot have a file named <codeph>index.dita</codeph> in Content Fusion.</p>
+        <p>If you are seeing this page, you are in the GitHub Pages version of this site (or a PDF
+            version).</p>
     </body>
 </topic>
