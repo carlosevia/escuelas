@@ -4,6 +4,17 @@
     <title>George Mason University</title>
     <body>
         <p><b>George Mason University</b> (GMU) is a public university located in Fairfax, Virginia, known for its innovative research and diverse programs.</p>
+        <section id="section_zbs_c4g_zcc">
+            <title>Testing</title>
+            <p>Yay!</p>
+        </section>
+        <section id="section_xxy_d4g_zcc">
+            <title>An image?</title>
+            <fig id="fig_pqt_24g_zcc"/>
+            <fig id="fig_nnd_j4g_zcc">
+                <title>Test</title>
+            </fig>
+        </section>
         <section>
             <title>Student Population</title>
             <p>GMU serves approximately 39,001 students, making it the largest public university in
